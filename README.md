@@ -1,4 +1,4 @@
- Business Analyst    Business Intelligence Specialist    Data Analyst Instructor    Data Analyst     Research Analyst
+ Business Analyst    Business Intelligence Specialist    Data Analyst Instructor    Data Analyst     Research Analyst  Operations Analyst
 
 I have built a strong skill set in data analysis, trend identification, and actionable reporting. I have applied these skills to import, clean, analyze, and visualize data, supporting my ability to transform raw data into meaningful insights. My background also includes knowledge of Excel, Power BI, PostgreSQL, IBM SPSS, Python, MySQL, Tableau, R, and MongoDB.
 
